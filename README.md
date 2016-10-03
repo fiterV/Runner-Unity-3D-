@@ -1,5 +1,5 @@
 <h3>
-Gamer, in which you can run and fetch coins.
+Game, in which you can run and fetch coins.
 </h3>
 
 <p>
