@@ -8,7 +8,9 @@ If you're a Windows user, simply open the **game.exe**. Otherwise just use [Wine
 	`wine game.exe`
 
 ### Screenshots
-![1.png]
-(Screenshots/1.png)
+<img src="Screenshots/1.png"/>
+<img src="Screenshots/2.png"/>
+<img src="Screenshots/3.png"/>
+
 
 
